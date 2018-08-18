@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Group1_Assignment1a.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\WorkSSD\SIT255-Top-Down-Shooter\Group1_Assignment1a\Intermediate\Build\Win64\UE4Editor\Development\Group1_Assignment1a\Group1_Assignment1a.cpp.obj"
+"C:\WorkSSD\SIT255-Top-Down-Shooter\Group1_Assignment1a\Intermediate\Build\Win64\UE4Editor\Development\Group1_Assignment1a\Group1_Assignment1aGameModeBase.cpp.obj"
+"C:\WorkSSD\SIT255-Top-Down-Shooter\Group1_Assignment1a\Intermediate\Build\Win64\UE4Editor\Development\Group1_Assignment1a\Group1_Assignment1a.init.gen.cpp.obj"
+"C:\WorkSSD\SIT255-Top-Down-Shooter\Group1_Assignment1a\Intermediate\Build\Win64\UE4Editor\Development\Group1_Assignment1a\Group1_Assignment1aGameModeBase.gen.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Group1_Assignment1a\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"C:\WorkSSD\SIT255-Top-Down-Shooter\Group1_Assignment1a\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Group1_Assignment1a.lib"

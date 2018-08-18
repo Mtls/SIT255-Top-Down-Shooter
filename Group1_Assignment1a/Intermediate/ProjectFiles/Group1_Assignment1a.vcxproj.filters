@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\Group1_Assignment1a.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{1E04532E-32A3-4B37-B48E-8A384D5E7809}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\Group1_Assignment1a.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\Group1_Assignment1aEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{F95DDF06-1FE0-4B09-A23C-433895EAC122}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\Group1_Assignment1a">
+			<UniqueIdentifier>{3D0FDE17-B767-4F3E-9730-8AE6A7CD9B70}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\Group1_Assignment1a\Group1_Assignment1a.Build.cs">
+			<Filter>Source\Group1_Assignment1a</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\Group1_Assignment1a\Group1_Assignment1a.cpp">
+			<Filter>Source\Group1_Assignment1a</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Group1_Assignment1a\Group1_Assignment1a.h">
+			<Filter>Source\Group1_Assignment1a</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\Group1_Assignment1a\Group1_Assignment1aGameModeBase.cpp">
+			<Filter>Source\Group1_Assignment1a</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Group1_Assignment1a\Group1_Assignment1aGameModeBase.h">
+			<Filter>Source\Group1_Assignment1a</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>

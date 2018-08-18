@@ -1,0 +1,3 @@
+C:\WorkSSD\SIT255-Top-Down-Shooter\Group1_Assignment1a\Source\Group1_Assignment1a\Group1_Assignment1a.Build.cs
+C:\WorkSSD\SIT255-Top-Down-Shooter\Group1_Assignment1a\Source\Group1_Assignment1a.Target.cs
+C:\WorkSSD\SIT255-Top-Down-Shooter\Group1_Assignment1a\Source\Group1_Assignment1aEditor.Target.cs
